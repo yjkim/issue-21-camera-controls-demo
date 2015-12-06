@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8E8B6C98C916C5F60429055FCCD52AC586CDBA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8E8B6C98C916C5F60429055FCCD52AC586CDBA0" : 0,
+    "2F755E37EE212F3E7E290FEC39D0EC13F767401A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B882CCB-033A-4105-A82A-6DBA4BF4A69C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8E8B6C98C916C5F60429055FCCD52AC586CDBA0" : "issue-21-camera-controls-demo\/",
+    "2F755E37EE212F3E7E290FEC39D0EC13F767401A" : "Camera"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Camera",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Camera.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:oettam\/camera-controls.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F755E37EE212F3E7E290FEC39D0EC13F767401A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:objcio\/issue-21-camera-controls-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8E8B6C98C916C5F60429055FCCD52AC586CDBA0"
+    }
+  ]
+}

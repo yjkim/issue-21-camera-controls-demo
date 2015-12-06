@@ -16,13 +16,13 @@ class GLViewController: UIViewController {
 
 	var cameraController:CameraController!
 	
-	private var glContext:EAGLContext?
+	private var glContext:EAGLContext!
 	private var ciContext:CIContext?
 	private var renderBuffer:GLuint = GLuint()
 	
 	private var glView:GLKView {
 		get {
-			return view as GLKView
+			return view as! GLKView
 		}
 	}
 
@@ -66,7 +66,7 @@ class GLViewController: UIViewController {
 		
 		glView.bindDrawable()
 
-		ciContext?.drawImage(image, inRect:image.extent(), fromRect: image.extent())
+		ciContext?.drawImage(image, inRect:image.extent, fromRect: image.extent)
 
 		glView.display()
 	}
